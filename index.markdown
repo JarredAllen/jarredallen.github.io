@@ -4,4 +4,9 @@
 
 layout: home
 ---
-This is a WIP website that I'm working on.
+
+This site is a work-in-progress.
+
+Some links:
+ * [About Me](/about-me)
+ * [Resume](/resume)
